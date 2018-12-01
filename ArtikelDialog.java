@@ -3,7 +3,7 @@ import java.util.Scanner;
  * Testklasse zum Testen der Klasse Artikel
  * 
  * @author (Ezgi Senguel, Maike Hochstrasser) 
- * @version (11.11.2018)
+ * @version (1.12.2018)
  */
 
 public class  ArtikelDialog{
