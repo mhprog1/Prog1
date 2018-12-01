@@ -3,7 +3,7 @@
  * Beschreiben Sie hier die Klasse Artikel.
  * 
  * @author Ezgi Senguel & Maike Hochstrasser 
- * @version 29.11.2018
+ * @version 1.12.2018
  */
 public class Artikel{
     private int artikelnummer; 
